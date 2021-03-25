@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
  * TCSS343 HW4 Solving the Subset Sum problem using 3 algorithms: brute force,
  * dynamic programming, and clever algorithm
  *
- * @author Khaled Al Ashor -> Brute Force, Dynamic, Driver
- * @author Ismael Jones  -> Clever
+ * @author Khaled Al Ashor 
+ * @author Ismael Jones 
  *
  */
 public class tcss343 {
